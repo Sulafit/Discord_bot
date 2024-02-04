@@ -2,8 +2,7 @@
 Overview
 This Discord bot is a multi-tool that provides various functionalities, including setting reminders, creating polls, and fetching current weather information.
 m
-![](https://github.com/Sulafit/Discord_bot/assets/95477101/c9e9ae08-c7ad-4527-852b-12ab104eeecf | width = 100)
-<img src="https://github.com/Sulafit/Discord_bot/assets/95477101/c9e9ae08-c7ad-4527-852b-12ab104eeecf" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/Sulafit/Discord_bot/assets/95477101/c9e9ae08-c7ad-4527-852b-12ab104eeecf" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="400" />
 
 Features
 1. Reminder System
